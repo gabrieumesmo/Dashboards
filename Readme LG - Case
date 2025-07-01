@@ -1,0 +1,38 @@
+Painel de Análise de Preço - LG vs Concorrência (Power BI)  
+-Este repositório contém um painel desenvolvido em Power BI para análise comparativa de preços de televisores da LG em relação a modelos concorrentes, como Samsung e outras marcas, em diferentes faixas de polegadas e semanas.
+
+1. Objetivo do Projeto  
+- Realizar o acompanhamento semanal de preços médios e preços moda por modelo de TV.
+- Comparar os preços da LG com os de outras marcas em modelos equivalentes.
+- Oferecer suporte a estratégias de precificação, competitividade e posicionamento de mercado.
+
+2. Estrutura do Painel  
+2.1 Preço Médio Semanal  
+- Evolução do preço médio dos televisores LG semana a semana.  
+- Variações de preço agrupadas por modelo e tamanho.  
+
+2.2 Preço Moda  
+- Identificação do preço mais recorrente (moda) por modelo de TV.  
+- Preço moda mais baixo: PTV32G50SN - R$ 800,00  
+- Preço moda mais alto: 40J5290 - R$ 1.999,00  
+
+2.3 Comparativo por Tamanho (Polegadas)  
+- 75" → R$ 5.999  
+- 65" → R$ 4.299  
+- 58"~60" → R$ 3.499  
+- 50"~55" → R$ 2.699  
+- 40"~43" → R$ 1.699  
+- 32" → R$ 999  
+
+2.4 Indicadores
+- Percentual de repetição da moda semanal: 4,4%  
+- Comparativo direto de preço moda LG vs Samsung  
+- Identificação visual de quando o preço moda da LG está acima, igual ou abaixo da concorrência  
+
+3. Tecnologias Utilizadas  
+- Power BI Desktop  
+- Fonte de dados: Base semanal de preços por modelo/tamanho  
+- Período analisado: Semanas específicas de coleta (detalhamento interno)  
+
+4. Considerações Finais  
+Este painel é um projeto acadêmico/demonstrativo. Os dados apresentados são fictícios, gerados com o auxílio de inteligência artificial para fins de simulação e visualização. Não representam valores reais de mercado ou dados oficiais da LG ou de outras marcas mencionadas.
