@@ -1,0 +1,55 @@
+Painel Gerencial - Nestlé NDG (Power BI)  
+
+
+Este repositório apresenta um projeto de dashboard desenvolvido em Power BI com foco na análise de desempenho das operações da marca Nestlé NDG (Nescafé Dolce Gusto) em pontos de venda. O painel fornece uma visão gerencial detalhada sobre preço, vendas, degustações, presença de produtos, treinamentos de promotores e estoques ao longo de um período de 4 meses.
+
+1. Estrutura do Painel  
+
+
+O projeto é dividido em várias abas temáticas:
+
+1.1 Preço  
+- Comparativo de preços mínimos, máximos, médios e moda por modelo de máquina e por rede varejista.  
+- Comparação entre marcas concorrentes (ex: Nespresso, Três Corações).  
+- Variações por período (Out/24 a Jan/25).  
+
+1.2 Vendas  
+- Volume de vendas por produto e ponto de venda (PDV).  
+- Evolução mensal e ranking dos produtos mais vendidos.  
+- Destaques por canal: varejo alimentar vs eletro.  
+
+1.3 Degustação  
+- Quantidade de visitas com ações de degustação.  
+- Cálculo de média de degustações por visita.  
+- Comparativo de ações por rede (ex: Fast Shop, GPA).  
+
+1.4 Presença  
+- Mapeamento de presença dos produtos em PDVs.  
+- Situação do estoque: produtos com presença "OK", "Baixo" ou "Zerado".  
+- Frequência por tipo de produto e voltagem.  
+
+1.5 Treinamento  
+- Quantidade de treinamentos realizados por promotor.  
+- Número de pessoas treinadas por mês e por cidade.  
+- Ranking de promotores mais atuantes.  
+
+2. Insights Estratégicos  
+
+
+- Melhor desempenho de vendas no mês de Novembro/24.  
+- Degustações impactam diretamente nas vendas, com destaque para Fast Shop Anália Franco (3.131 degustações).  
+- Produtos com maior presença têm melhores resultados em vendas, destacando a importância do controle de estoque.  
+- Treinamento dos promotores influencia a qualidade das abordagens e conversão em vendas.  
+
+3. Tecnologias Utilizadas  
+
+
+- Power BI Desktop  
+- Excel (para tratamento de dados)  
+- Fonte de dados: Coletas em PDVs e registros internos de desempenho  
+- Período analisado: Outubro/2024 a Janeiro/2025  
+
+4. Considerações  
+
+
+Este painel é um projeto acadêmico/demonstrativo e os dados apresentados são fictícios, gerados com o auxílio de inteligência artificial para fins de simulação e visualização. Não representam informações reais da empresa ou de seus produtos.
