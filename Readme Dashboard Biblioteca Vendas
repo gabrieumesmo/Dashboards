@@ -1,0 +1,46 @@
+Visão Geral
+Este repositório contém um dashboard interativo de vendas para uma biblioteca, desenvolvido no Power BI e com dados provenientes de uma planilha Excel. O dashboard fornece uma visão abrangente do desempenho das vendas, estoque, preços e margens de lucro dos títulos disponíveis.
+
+1. Overview
+Resumo das vendas totais, titulo e etc
+
+2. OTD em Estoque por Título
+Lista de títulos disponíveis no estoque, incluindo:
+
+O Enigma de Escuridio
+
+O Programa Inho da Naga
+
+O Segundo da Estinta Métrica
+
+Entre outros.
+
+3. Preço de Venda por Título
+Informações sobre preços de venda para os títulos
+
+4. Margem de Faturamento por Título
+Análise da margem de lucro para títulos como:
+
+O Enigma de Escuridio
+
+O Jardim dos Santos
+
+A Busca pelo Anco.
+
+5. Detalhado
+Tabela com dados detalhados sobre cada título, incluindo:
+
+Estoque livre
+
+Preço de custo
+
+Preço de venda
+
+Quantidade de vendas
+
+Margem de lucro
+
+Faturamento.
+
+Como Usar:
+Power BI: Abra o arquivo .pbix no Power BI Desktop para visualizar e interagir com o dashboard.
