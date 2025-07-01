@@ -1,46 +1,37 @@
-Visão Geral
-Este repositório contém um dashboard interativo de vendas para uma biblioteca, desenvolvido no Power BI e com dados provenientes de uma planilha Excel. O dashboard fornece uma visão abrangente do desempenho das vendas, estoque, preços e margens de lucro dos títulos disponíveis.
+Dashboard de Vendas - Biblioteca (Power BI)  
+Este repositório contém um dashboard interativo de vendas para uma biblioteca, desenvolvido no Power BI com dados provenientes de uma planilha Excel. O objetivo é oferecer uma visão abrangente do desempenho de vendas, controle de estoque, precificação e margens de lucro dos livros disponíveis.
+1. Overview  
+- Resumo das vendas totais por título  
+- Destaques de desempenho  
+- Tendências gerais de faturamento  
 
-1. Overview
-Resumo das vendas totais, titulo e etc
-
-2. OTD em Estoque por Título
+2. OTD em Estoque por Título  
 Lista de títulos disponíveis no estoque, incluindo:
+- O Enigma de Escuridio  
+- O Programa Inho da Naga  
+- O Segundo da Estinta Métrica  
+- Entre outros  
 
-O Enigma de Escuridio
+3. Preço de Venda por Título  
+- Visualização dos preços de venda praticados por título  
+- Comparativo entre os livros mais caros e mais acessíveis  
 
-O Programa Inho da Naga
+4. Margem de Faturamento por Título  
+- Análise da margem de lucro por título  
+- Destaques como:  
+  - O Enigma de Escuridio  
+  - O Jardim dos Santos  
+  - A Busca pelo Anco  
 
-O Segundo da Estinta Métrica
+5. Detalhado  
+Tabela completa com dados para cada título, incluindo:
 
-Entre outros.
+- Estoque livre  
+- Preço de custo  
+- Preço de venda  
+- Quantidade de vendas  
+- Margem de lucro  
+- Faturamento total  
 
-3. Preço de Venda por Título
-Informações sobre preços de venda para os títulos
-
-4. Margem de Faturamento por Título
-Análise da margem de lucro para títulos como:
-
-O Enigma de Escuridio
-
-O Jardim dos Santos
-
-A Busca pelo Anco.
-
-5. Detalhado
-Tabela com dados detalhados sobre cada título, incluindo:
-
-Estoque livre
-
-Preço de custo
-
-Preço de venda
-
-Quantidade de vendas
-
-Margem de lucro
-
-Faturamento.
-
-Como Usar:
-Power BI: Abra o arquivo .pbix no Power BI Desktop para visualizar e interagir com o dashboard.
+Como Usar  
+Power BI: Abra o arquivo `.pbix` no Power BI Desktop para visualizar e interagir com o dashboard.
