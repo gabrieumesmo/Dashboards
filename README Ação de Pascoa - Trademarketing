@@ -1,0 +1,27 @@
+Este repositório contém um dashboard interativo de vendas para a campanha de Páscoa, desenvolvido no Power BI com dados provenientes de relatórios de desempenho. O objetivo é oferecer uma visão abrangente do desempenho de vendas pós-degustação, análise por produto, estado, PDV e promotores.
+
+1. Overview
+
+2. Vendas por Produto
+Lista dos produtos mais vendidos durante a campanha:
+
+3. Vendas por Estado
+Distribuição geográfica das vendas
+
+4. Média de Vendas por PDV
+Desempenho por ponto de venda (PDV)
+
+5. Detalhado por Promotor
+Análise individual do desempenho dos promotores
+
+6. Dados Financeiros Detalhados
+Verdades totais e pós-degustação
+
+Valores específicos por promotor (ex: R$ 4.184,60, R$ 3.200,00, etc.)
+
+Totais consolidados (R$ 68.675,90 e R$ 82.411,02)
+
+Como Usar
+Power BI: Abra o arquivo .pbix no Power BI Desktop para visualizar e interagir com o dashboard.
+
+
